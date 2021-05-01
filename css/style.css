@@ -66,18 +66,22 @@ body {
 }
 
 .header {
-	font-size: 160%;
+	font-size: 200%;
 	text-align: left;
-	border-bottom: 1px solid black;
+	border-bottom: 4px solid black;
 	margin-left: 14%;
 	margin-right: 14%;
 }
+
+	.header p {
+		font-size: 50%;
+	}
 
 .project {
 	margin-left: 14%;
 	margin-right: 14%;
 	font-size: 140%;
-	border-bottom: 1px solid black;
+	border-bottom: 4px solid black;
 }
 
 	.project img {
